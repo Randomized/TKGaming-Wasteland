@@ -10,7 +10,6 @@ player createDiaryRecord["changelog",
 		[Fixed] - Server performance issues.<br/>
 		[Fixed] - Vehicle cleanup.<br/>
 		[Fixed] - Team locking time which is actually 3 mins now.<br/>
-		[Test] - I'm Testing this only
 "
 ]
 ];
